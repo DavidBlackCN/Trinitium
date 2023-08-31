@@ -1,0 +1,2 @@
+# Trinitium
+Minecraft modpack
